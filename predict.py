@@ -1,6 +1,14 @@
 '''
 Predicting the final match result based on the half time score
 Features used: { half time score, # total shots, # shots on target }
+
+Author: Omkar Acharya
+
+
+
+
+
+
 '''
 
 from sklearn.metrics import accuracy_score
